@@ -1,0 +1,21 @@
+h1 {
+    color: royalblue;
+}
+
+h1:hover {
+    color: black;
+    background-color: rgb(121, 14, 14);
+    margin: 50px;
+    padding: 50px;
+    font-size: 40px;
+}
+
+.middle-person:focus {
+    color: rgb(3, 236, 18);
+    font-weight: 700;
+    background-color: red;
+}
+
+a:visited {
+    color: red;
+}
